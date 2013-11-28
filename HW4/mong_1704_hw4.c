@@ -1,3 +1,13 @@
+/*##########################################################################
+# Name			:kyaw Than Mong
+# email 		:ekyawthan@gmail.com
+# Assigment 		:HW4
+# Reference		: 
+# Test System Info	:
+# Compiler		:
+###########################################################################*/
+
+
 #include <stdio.h>
 #include <string.h>
 
