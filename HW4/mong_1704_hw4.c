@@ -1,8 +1,8 @@
 /*##########################################################################
-# Name			:kyaw Than Mong
-# email 		:ekyawthan@gmail.com
-# Assigment 		:HW4
-# Reference		: 
+# Name			: Kyaw Than Mong
+# email 		: ekyawthan@gmail.com
+# Assigment 		: HW4
+# Reference		: http://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
 # Test System Info	:
 # Compiler		:
 ###########################################################################*/
@@ -66,19 +66,3 @@ find_string(char *s, char *t)
 }
 
  
-
-int main(void)
-{
-	char str1[] = "example";
-	char str2[] = "xample";
-	char *str3 = "mple";
-	char *str4 = "error";
-	int tmp;
-	tmp = find_string( str1, str2);
-	printf("%i\n",tmp);
-	tmp =find_string( str1, str3);
-	printf("%i\n",tmp);
-	tmp = find_string(str1, str4);
-	printf("%i\n",tmp);
-	return 0;
-}
