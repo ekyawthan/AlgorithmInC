@@ -12,7 +12,6 @@
 #include <string.h>
 
 
-
 void 
 compute_prefix_function(char *p, int *pi)
 {

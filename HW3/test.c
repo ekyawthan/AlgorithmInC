@@ -1,3 +1,7 @@
+#include "Mong1704_hw3.c"
+
+
+
 int main(void)
 {  int cap[1000][1000], flow[1000][1000];
    int i,j, flowsum;
