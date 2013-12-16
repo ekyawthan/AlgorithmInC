@@ -1,16 +1,16 @@
 /*##########################################################################
-# Name			         : Kyaw Than Mong
-# email 		         : ekyawthan@gmail.com
-# Assigment 		     : HW3
-# Reference		         : http://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm
-# Test System Info	     : Linux Ubuntu
-# Compiler		         : GCC
-#Limitation              : The Size of queue is Fix
-# Test Result            :
-                           prepared capacity matrix, now executing maxflow code
-                           Outflow of  0 is 10, should be 10
-                           Inflow of 999 is 10, should be 10
-                           End Test
+# Name			        : Kyaw Than Mong
+# email 		        : ekyawthan@gmail.com
+# Assigment 		     	: HW3
+# Reference		        : http://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm
+# Test System Info	     	: Linux Ubuntu
+# Compiler		        : GCC
+#Limitation              	: The Size of queue is Fix
+# Test Result            	:
+                           	prepared capacity matrix, now executing maxflow code
+                           	Outflow of  0 is 10, should be 10
+                           	Inflow of 999 is 10, should be 10
+                           	End Test
                       
 ###########################################################################*/
 
