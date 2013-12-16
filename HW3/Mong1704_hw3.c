@@ -1,7 +1,7 @@
 /*##########################################################################
 # Name			         : Kyaw Than Mong
 # email 		         : ekyawthan@gmail.com
-# Assigment 		     : HW4
+# Assigment 		     : HW3
 # Reference		        : http://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm
 # Test System Info	  : Linux Ubuntu
 # Compiler		        : GCC
@@ -71,7 +71,7 @@ argPath(int n, int s, int t, int *rGraph,int frontier[]){
    }
    return (visited[t] == true) ;  
 }
-
+// Function for finding maximum flow network
 void 
 maximum_flow(int n, int s, int t, int *capacity, int *flow){
 	int i, j, rGraph[n][n], frontier[n]; 
